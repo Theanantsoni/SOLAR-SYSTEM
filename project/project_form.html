@@ -1,0 +1,126 @@
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="style2.css">
+	<title></title>
+
+	<script>
+		
+		function form()
+		{
+			var username = document.getElementById("user").value;
+			var password = document.getElementById("passw").value;
+			var cpassword = document.getElementById("cpassw").value;
+
+			if(username == "")
+			{
+				document.getElementById("userr").innerHTML="* USERNAME IS EMPTY*";
+				return false;
+			}
+
+			if(!isNaN(username))
+			{
+				document.getElementById("userr").innerHTML=" * ONLY CHARACTER ALLOWED*";
+				return false;	
+			}
+
+			else
+			{
+				document.getElementById("userr").innerHTML="";
+			}
+
+			if(password == "")
+			{
+				document.getElementById("pass").innerHTML="*PASSWORD IS EMPTY *";
+				return false;
+			}
+
+			if(password.length <5 || password.length >20)
+			{
+				document.getElementById("pass").innerHTML="*PASSWORD LENGTH MUST BE BETWEEN 5 AND 20*";
+			}
+
+			else
+			{
+				document.getElementById("pass").innerHTML="";
+			}
+
+			if(cpassword =="")
+			{
+				document.getElementById("cpass").innerHTML="*CONFIRM PASSWORD IS EMPTY*";
+				return false;
+			}
+
+			else
+			{
+				document.getElementById("cpass").innerHTML="";
+			}
+
+			if(password!=cpassword)
+			{
+				document.getElementById("cpass").innerHTML="* PASSWORD NOT MATCHING*"
+				return false;
+			}
+
+		}	
+	</script>
+
+</head>
+<body background="D:\solar system\PROJECT DATA\background\b2.jpg">
+
+	<form action="#" method="POST" autocomplete="off" onclick="return form()">
+		
+		<div class="center-box">
+			<div class="login">
+				Login
+			</div>
+
+			<div class="user-box">	
+				Username or email*	
+			</div>
+
+			<div class="user-box1">
+				<input type="text" name="" id="user" placeholder="Enter Username">
+				<br><br> <span id="userr"></span> 
+			</div>
+				
+			<div class="password-box">
+				Password*
+			</div>
+
+			<div class="password-box1">
+				<input type="password" name="" id="passw" placeholder="Enter Password">
+				<br><br> <span id="pass"></span>
+			</div>
+				
+			<div class="cpass">
+				Confirm Password :
+			</div>
+
+				<div class="cpass-box">
+					<input type="password" name="" id="cpassw" placeholder="Confirm Password">
+					<br><br> <span id="cpass"></span>
+				</div>
+
+			<div class="remember-me">
+				<input type="checkbox" name=""> Remember me
+			</div>
+
+			<div class="forget-password">
+				<a href="" class="forget">
+					Forget <br> Password
+				</a>
+			</div>
+		
+	
+			<div class="butt">
+				<a href="D:\solar system\project\project_home.html">
+					<input type="button" name="" value="Submit">
+				</a>
+			</div>
+		
+	
+</form>
+</body>
+</html>
