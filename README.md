@@ -3,7 +3,7 @@ SOLAR SYSTEM WEBSITE VIDEO USING HTML, CSS AND JAVASCRIPT.
 
 CHECK FULL VIDEO ON YOUTUBE LINK : 
 
-https://youtu.be/rEbh7sASOq8?feature=shared
+https://youtu.be/wopjRK34stw?si=bMI2gvFCpQjxfm5j
 
 
 LINKDIN ACCOUNT LINK : 
