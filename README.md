@@ -11,7 +11,7 @@
 
 𝐂𝐇𝐄𝐂𝐊 𝐅𝐔𝐋𝐋 𝐕𝐈𝐃𝐄𝐎 𝐎𝐍 𝐘𝐎𝐔𝐓𝐔𝐁𝐄 𝐋𝐈𝐍𝐊 : 
 
-https://youtu.be/wopjRK34stw?si=bMI2gvFCpQjxfm5j
+https://youtu.be/Z-oBzlqPoPs?si=ZldcTmKfOedbkGF1
 
 
 𝐋𝐈𝐍𝐊𝐃𝐈𝐍 𝐀𝐂𝐂𝐎𝐔𝐍𝐓 𝐋𝐈𝐍𝐊 :
