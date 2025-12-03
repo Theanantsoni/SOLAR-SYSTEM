@@ -14,9 +14,9 @@ https://youtu.be/lBIpNhwyx9c?si=7AMSO9PlXA_pqavQ
 
 https://www.linkedin.com/in/anant-soni-b737662a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
 
-Project Workflow : 
+Project Planning Notes : 
 
-![Solar System Workflow](https://github.com/user-attachments/assets/bf4e30fe-7960-40b3-9ffa-f88670fe6404)
+https://github.com/Theanantsoni/SOLAR-SYSTEM/blob/main/Solar%20System%20Website%20Planning%20Notes.pdf
 
 
 
