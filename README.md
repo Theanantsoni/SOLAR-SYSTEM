@@ -2,9 +2,6 @@
 <br>
 𝐀𝐮𝐭𝐡𝐨𝐫 : 𝐀𝐧𝐚𝐧𝐭 𝐒𝐨𝐧𝐢
 
-https://github.com/Theanantsoni/SOLAR-SYSTEM/blob/main/PROJECT%20DATA/Picsart_22-11-15_11-33-53-223.jpg
-
-
 𝐒𝐨𝐥𝐚𝐫 𝐒𝐲𝐬𝐭𝐞𝐦 𝐖𝐞𝐛𝐬𝐢𝐭𝐞 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐔𝐬𝐢𝐧𝐠 𝐇𝐭𝐦𝐥, 𝐂𝐬𝐬 & 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭.
 
 
@@ -16,5 +13,10 @@ https://youtu.be/lBIpNhwyx9c?si=7AMSO9PlXA_pqavQ
 𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 𝐋𝐢𝐧𝐤 :
 
 https://www.linkedin.com/in/anant-soni-b737662a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
+
+Project Workflow : 
+
+![Uploading Picsart_22-11-15_11-33-53-223.jpg…]()
+
 
   
